@@ -30,3 +30,4 @@ In addition to other features like **Gestures Control** and **Face Recognition/V
 - Arabic
 - English
 - French
+- Germany
