@@ -33,4 +33,4 @@ In addition to other features like **Gestures Control** and **Face Recognition/V
 - Germany
 </br>
 </br>
-![ibrahim Merhi](https://github.com/Ibrahim-Merhi/Markdown/blob/master/My%20Pic.jpeg?raw=true)
+![ibrahim Merhi](https://github.com/Ibrahim-Merhi/Markdown/blob/master/My%20Pic.jpeg?raw=true|width=15)
